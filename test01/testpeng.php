@@ -8,3 +8,5 @@
 
 echo '这是忘记提交的文件';
 // git commit -- amend
+
+echo 'test02';
