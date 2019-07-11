@@ -16,3 +16,5 @@ echo 'eirhfihie';
 //测试一下 git 相关的内容
 
 //这边是提交的忘记提交的内容
+ echo 'git reset';
+ 
