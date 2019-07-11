@@ -17,4 +17,5 @@ echo 'eirhfihie';
 
 //这边是提交的忘记提交的内容
  echo 'git reset';
- 
+
+ echo 'git 任何已经提交的东西都是可以恢复的';
